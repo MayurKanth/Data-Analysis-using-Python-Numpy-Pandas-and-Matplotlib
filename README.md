@@ -25,6 +25,7 @@ Amount: Sales amount
 Status: Status of the order
 Unnamed1: Additional column (if available)
 
+
 # Tools Used
 Python: Programming language used for data analysis
 Jupyter Notebook: Interactive environment for running Python code, data visualization, and analysis
