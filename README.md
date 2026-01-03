@@ -6,24 +6,25 @@ This project analyzes Diwali sales data retrieved from a CSV file. The analysis 
 Dataset
 The dataset used for this analysis is stored in a CSV file named diwali_sales_data.csv. It includes the following columns:
 
-Date: Date of the sale
-Sales: Sales amount for that date
-Product: Type of product sold
-User_ID: ID of the user/customer
-Cust_name: Name of the customer
-Product_ID: ID of the product
-Gender: Gender of the customer
-Age Group: Categorized age group of the customer
-Age: Age of the customer
-Marital_Status: Marital status of the customer
-State: State information
-Zone: Geographical zone
-Occupation: Customer's occupation
-Product_Category: Category of the product
-Orders: Number of orders made
-Amount: Sales amount
-Status: Status of the order
-Unnamed1: Additional column (if available)
+- **Date**: Date of the sale  
+- **Sales**: Sales amount for that date  
+- **Product**: Type of product sold  
+- **User_ID**: ID of the user/customer  
+- **Cust_name**: Name of the customer  
+- **Product_ID**: ID of the product  
+- **Gender**: Gender of the customer  
+- **Age Group**: Categorized age group  
+- **Age**: Age of the customer  
+- **Marital_Status**: Marital status  
+- **State**: State information  
+- **Zone**: Geographical zone  
+- **Occupation**: Customer's occupation  
+- **Product_Category**: Category of the product  
+- **Orders**: Number of orders made  
+- **Amount**: Sales amount  
+- **Status**: Status of the order  
+- **Unnamed1**: Additional column
+
 
 
 # Tools Used
